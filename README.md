@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Sam and I am a junior CS student at Washington and Lee University.
+
+Outside of class, I enjoy being outside, running, working out, playing the guitar, playing soccer, and spending time with my friends.
+
+In the classroom, I am interested in learning more about developing and becoming comfrotable with industry tools such as Github.
+
 <!--
 **bready7/bready7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
